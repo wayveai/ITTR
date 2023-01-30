@@ -1,4 +1,5 @@
-
+# Image-to-Image Translation with Transformers (ITTR)
+A [transformer based image generator](https://github.com/lucidrains/ITTR-pytorch) trained by replacing the generator in CUT for unpaired image translation
 
 # Contrastive Unpaired Translation (CUT)
 
